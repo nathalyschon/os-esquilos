@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+background-color: rgb(231, 231, 231);
+color: aliceblue;
+}
+
+.cabecalho {
+    background-color: #B5C0D0;
+}
