@@ -10,6 +10,8 @@ color: rgb(0, 0, 0);
 }
 
 .cabecalho {
+
+    display: flex;
     background-color: #da1111;
     align-items: center;
     font-size: 25px;
@@ -17,7 +19,7 @@ color: rgb(0, 0, 0);
     padding: 24px 0 ;
 }
 cabecalho-imagem{
-    width: 10px;% ;
+    width: 10% ;
 }
 
 
