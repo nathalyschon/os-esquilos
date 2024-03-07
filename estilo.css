@@ -11,9 +11,13 @@ color: aliceblue;
 
 .cabecalho {
     background-color: #B5C0D0;
+    align-items: center;
+    font-size: 25px;
+    justify-content: space-between;
+    padding: 24px 0 ;
 }
 cabecalho-imagem{
-    width: 40px;% ;
+    width: 10px;% ;
 }
 
 
@@ -23,3 +27,4 @@ cabecalho-imagem{
   margin: 0 16px;
   font-size: 24px;
 }
+
