@@ -6,11 +6,11 @@
 body{
 
 background-color: rgb(255, 255, 255);
-color: rgb(161, 0, 0);
+color: rgb(0, 0, 0);
 }
 
 .cabecalho {
-    background-color: #727985;
+    background-color: #ffffff;
     align-items: center;
     font-size: 25px;
     justify-content: space-between;
