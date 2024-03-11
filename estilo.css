@@ -31,6 +31,7 @@ cabecalho-imagem{
 }
 
 .sessao1 {
+    display: flex;
     font-family: "Outfit", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
