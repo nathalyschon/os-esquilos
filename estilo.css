@@ -5,8 +5,8 @@
 
 body{
 
-background-color: background: rgb(255,0,0);
-background: linear-gradient(90deg, rgba(255,0,0,1) 35%, rgba(227,209,35,1) 81%);
+  background: rgb(255,0,0);
+  background: linear-gradient(180deg, rgba(255,0,0,1) 30%, rgba(227,209,35,1) 100%);;
 color: rgb(0, 0, 0);
 }
 
