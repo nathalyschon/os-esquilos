@@ -36,7 +36,7 @@ cabecalho-imagem{
     display: flex;
     font-family: "Outfit", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 500;
+  font-weight: 700;
   font-style: normal;
 }
 
@@ -44,3 +44,4 @@ cabecalho-imagem{
 .sessao1-div{
   width: 35%;
 }
+
