@@ -14,7 +14,7 @@ color: rgb(223, 13, 13);
 .cabecalho {
 
     display: flex;
-    background-color: #cf1212f3;
+    background-color: #ff941af3;
     align-items: center;
     font-size: 30px;
     justify-content: space-between;
