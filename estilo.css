@@ -55,6 +55,10 @@ sessao2-titulo{
   color: rgb(247, 204, 17);
   
 }
-.sessao2-todos{
+.sessao2-todos-personagens{
   display: flex;
+}
+.sessao2-todos-personagens img{
+  width: 200px;
+  height: 300px;
 }
