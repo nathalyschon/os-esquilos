@@ -44,10 +44,10 @@ cabecalho-imagem{
   width: 35%;
 }
 
-  sessao2-titulo{
-    background-color: rgb(247, 204, 17);
+sessao2-titulo{
+    background-color: rgb(255, 255, 255);
   }
-sessao2{
+.sessao2{
   background-color: white;
   text-align: center;
   color: rgb(247, 204, 17);
