@@ -29,7 +29,7 @@ cabecalho-imagem{
 .lista-item{
   display: inline-block;
   margin: 0 16px;
-  font-size: 40px;
+  font-size: 24px;
 }
 
 .sessao1 {
@@ -56,7 +56,8 @@ sessao2-titulo{
   
 }
 .sessao2-todos-personagens{
-  display: flex;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
 }
 .sessao2-todos-personagens img{
   width: 200px;
