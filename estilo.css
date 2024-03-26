@@ -55,3 +55,6 @@ sessao2-titulo{
   color: rgb(247, 204, 17);
   
 }
+.sessao2-todos{
+  display: flex;
+}
