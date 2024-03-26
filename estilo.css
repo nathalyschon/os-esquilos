@@ -29,14 +29,14 @@ cabecalho-imagem{
 .lista-item{
   display: inline-block;
   margin: 0 16px;
-  font-size: 24px;
+  font-size: 40px;
 }
 
 .sessao1 {
     display: flex;
     font-family: "Outfit", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 1000;
+  font-weight: 700;
   font-style: normal;
   color: rgb(247, 204, 17);
 }
