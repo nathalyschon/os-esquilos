@@ -38,7 +38,7 @@ cabecalho-imagem{
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
-  color: rgb(247, 204, 17);
+  background-color: rgb(247, 204, 17);
 }
 .sessao1-titulo{
   font-size: 50px;
@@ -69,6 +69,6 @@ sessao2-titulo{
 }
 
 .sessao2-titulo{
-  font size 30px; ;
-  padding: px ;
+  font-size: 30px; ;
+  padding: 25px 0;
 }
