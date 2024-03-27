@@ -57,7 +57,7 @@ sessao2-titulo{
 }
 .sessao2-todos-personagens{
   display: grid;
-  grid-template-columns: 25% 25% 30% 30%;
+  grid-template-columns: 25% 25% 33% 33%;
 }
 .sessao2-todos-personagens img{
   width: 200px;
