@@ -42,11 +42,12 @@ cabecalho-imagem{
 }
 .sessao1-titulo{
   font-size: 50px;
-  color: black;
+  color: rgb(218, 17, 17);
 }
 
 .sessao1-div{
   width: 35%;
+  color: rgb(214, 1, 1);
 }
 
 sessao2-titulo{
