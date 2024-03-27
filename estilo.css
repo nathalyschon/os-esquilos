@@ -40,7 +40,9 @@ cabecalho-imagem{
   font-style: normal;
   color: rgb(247, 204, 17);
 }
-
+.sessao1-titulo{
+  font-size: 50px;
+}
 
 .sessao1-div{
   width: 35%;
@@ -66,5 +68,5 @@ sessao2-titulo{
 
 .sessao2-titulo{
   font size 30px; ;
-  padding: ;
+  padding: px ;
 }
