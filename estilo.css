@@ -39,6 +39,7 @@ cabecalho-imagem{
   font-weight: 700;
   font-style: normal;
   background-color: rgb(247, 204, 17);
+  justify-content: space-between;
 }
 .sessao1-titulo{
   font-size: 50px;
